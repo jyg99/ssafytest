@@ -1,1 +1,1 @@
-test 입니다
+RESTORE 연습하자
